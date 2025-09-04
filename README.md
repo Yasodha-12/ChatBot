@@ -52,7 +52,7 @@ Alternatively, if environment variables are used for the API key, set the approp
 - Install dependencies:
 
   ```bash
-  pip install -r requirements.txt
+  pip install gradio requests
   ```
 
 - Run the application:
