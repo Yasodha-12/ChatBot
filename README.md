@@ -1,7 +1,3 @@
-Here is a detailed README file explaining the code and project comprehensively:
-
-***
-
 # Construction AI Assistant
 
 ## Overview
