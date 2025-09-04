@@ -70,13 +70,4 @@ Alternatively, if environment variables are used for the API key, set the approp
 - Submit queries to receive AI-generated answers.
 - Clear conversations anytime using the clear button.
 
-## Important Notes
 
-- This assistant provides helpful guidance specific to construction industry topics.
-- It is not a substitute for licensed engineers or official inspections.
-- Always verify critical construction decisions with qualified professionals.
-
-
-This README covers the project purpose, code functionality, usage, API key setup, and notes for safe use comprehensively. Let me know if more details or formatting changes are needed.
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/82261271/56329657-abe8-4146-9912-67973a875cbd/construction_ai.py)
